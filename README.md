@@ -2,6 +2,11 @@
 
 CS530 Introduction to Scientific Visualization assignment 1 @Purdue.
 
+## Dataset
+
+You can find the dataset
+[here](https://www.cs.purdue.edu/homes/cs530/projects/project1.html).
+
 ## Getting Started
 
 Install Python 3.11.1 or later.
