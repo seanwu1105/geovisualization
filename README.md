@@ -48,8 +48,8 @@ path of the satellite picture.
 python view_earth.py [-g|--geometry] <sphere_elevation> [-i|--image] <image>
 ```
 
-where <sphere_elevation> is the path of the elevation on a sphere data file and
-<image> is the path of the satellite image.
+where `<sphere_elevation>` is the path of the elevation on a sphere data file and
+`<image>` is the path of the satellite image.
 
 ## Contributing
 
